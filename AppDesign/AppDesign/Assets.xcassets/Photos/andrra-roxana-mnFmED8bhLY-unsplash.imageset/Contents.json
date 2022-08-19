@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "andrra-roxana-mnFmED8bhLY-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "andrra-roxana-mnFmED8bhLY-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "andrra-roxana-mnFmED8bhLY-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Favourites"; ObjectID = "1iO-4p-jeP"; */
+"1iO-4p-jeP.text" = "Favoriler";
+
+/* Class = "UITabBarItem"; title = "Directions"; ObjectID = "6vF-6A-grB"; */
+"6vF-6A-grB.title" = "Rotalar";
+
+/* Class = "UILabel"; text = "Where do you want to go?"; ObjectID = "A8K-JR-8z1"; */
+"A8K-JR-8z1.text" = "Nereye gitmek istersiniz?";
+
+/* Class = "UITabBarItem"; title = "Stations"; ObjectID = "A9b-CX-LJR"; */
+"A9b-CX-LJR.title" = "Duraklar";
+
+/* Class = "UISearchBar"; placeholder = "Istanbul, Besiktas"; ObjectID = "IqH-OE-6E1"; */
+"IqH-OE-6E1.placeholder" = "İstanbul, Beşiktaş";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "KyG-ZK-eIY"; */
+"KyG-ZK-eIY.normalTitle" = "Ekle";
+
+/* Class = "UILabel"; text = "Take a ride!"; ObjectID = "PUm-82-B97"; */
+"PUm-82-B97.text" = "Yolculuk yap!";
